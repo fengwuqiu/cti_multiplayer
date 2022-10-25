@@ -1,0 +1,48 @@
+[normal_cnt]
+cnt=2
+
+[normal_cmd]
+#cmd1=load_pic -C -w15 -l15 white_test.png
+#cmd1=load_pic -C -w20 -l20 R_AA.bmp
+#cmd2=load_pic -C -w20 -l20 G_AA.bmp
+#cmd3=load_pic -C -w20 -l20 B_AA.bmp
+#cmd4=load_pic -C -w20 -l20 RG_AA.bmp
+#cmd5=load_pic -C -w20 -l20 GB_AA.bmp
+#cmd6=load_pic -C -w20 -l20 RB_AA.bmp
+#cmd1=load_pic -C -w15 -l15 white_test.png
+#cmd1=load_pic -C -w5 -l5 CANDELA_logo_justhan.bmp
+#cmd2=load_pic -C -w5 -l5 CANDELA_logo_en.bmp
+cmd1=load_pic -C -w1 -l3 default.gif
+cmd2=load_pic -C -w5 -l5 CANDELA_logo_han.bmp
+#cmd1=load_ani -v -f "panda5.mp4"
+#cmd3=load_pic -C -w10 -l10 ad1.jpg
+#cmd5=load_str -s10 -x32 -y96 -C 30,144,255 -l1  -f ../fonts/simhei_U32.bdf "坎德拉(深圳)科技创新有限公司"
+
+[face_cnt]
+cnt=4
+
+[face_cmd]
+cmd1=load_pic -C -w1 -l5 default.gif
+cmd2=load_pic -C -w1 -l2 happy.gif
+cmd3=load_pic -C -w1 -l2 love.gif
+cmd4=load_pic -C -w1 -l2 snooze.gif
+
+[urgent_cnt]
+cnt=13
+
+[urgent_cmd]
+cmd1=load_pic -C -w1 -l1 brake.gif
+cmd2=load_pic -C -w1 -l1000 brake.gif
+cmd3=load_pic -C -w1 -l1 turnLeft.gif
+cmd4=load_pic -C -w1 -l1000 turnLeft.gif
+cmd5=load_pic -C -w1 -l1 turnRight.gif
+cmd6=load_pic -C -w1 -l1000 turnRight.gif
+cmd7=load_pic -C -w1 -l1 Reversing.gif
+cmd8=load_pic -C -w1 -l1000 Reversing.gif
+cmd9=load_pic -C -w1 -l1000 Bootup.gif
+cmd10=load_pic -C -w1 -l1 dodge.gif
+cmd11=load_pic -C -w1 -l1 location.gif
+cmd12=load_pic -C -w1 -l1 warning.gif
+cmd13=load_pic -C -w1 -l1 work.gif
+
+

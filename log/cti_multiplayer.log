@@ -1,0 +1,788 @@
+(2021-05-31 09:58:25) Debug: File:(src/main.cpp) Line:(19) -------------------------
+(2021-05-31 09:58:25) Debug: File:(src/main.cpp) Line:(20) cti_multiplayer start now!
+(2021-05-31 09:58:25) Debug: File:(src/main.cpp) Line:(21) -------------------------
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(160) normal_cmd_list_:
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(162) 0 "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(162) 1 "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(162) 2 "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(165) face_cmd_list_:
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(167) 0 "-w-1 /home/wangpeng/cti_multiplayer/media/cuteHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(167) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/loveHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(167) 2 "-w-1 /home/wangpeng/cti_multiplayer/media/smileHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(167) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/winkHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(170) urgent_cmd_list_:
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 0 "-w2 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 2 "-w2 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 4 "-w2 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 5 "-w-1 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 6 "-w2 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 7 "-w-1 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 8 "-w-1 /home/wangpeng/cti_multiplayer/media/chargingHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 9 "-w-1 /home/wangpeng/cti_multiplayer/media/bootupHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 10 "-w-1 /home/wangpeng/cti_multiplayer/media/lowpowerHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 11 "-w-1 /home/wangpeng/cti_multiplayer/media/positioningHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(172) 12 "-w-1 /home/wangpeng/cti_multiplayer/media/warnHD.gif"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-w2"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 2
+(2021-05-31 09:58:25) Debug: File:(src/mainwindow.cpp) Line:(205) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-05-31 09:58:27) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-05-31 09:58:27) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-05-31 09:58:27) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-w2"
+(2021-05-31 09:58:27) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-05-31 09:58:27) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 2
+(2021-05-31 09:58:27) Debug: File:(src/mainwindow.cpp) Line:(205) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 09:46:46) Debug: File:(src/main.cpp) Line:(19) -------------------------
+(2021-06-22 09:46:46) Debug: File:(src/main.cpp) Line:(20) cti_multiplayer start now!
+(2021-06-22 09:46:46) Debug: File:(src/main.cpp) Line:(21) -------------------------
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(160) normal_cmd_list_:
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(162) 0 "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(162) 1 "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(162) 2 "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(165) face_cmd_list_:
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(167) 0 "-w-1 /home/wangpeng/cti_multiplayer/media/cuteHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(167) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/loveHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(167) 2 "-w-1 /home/wangpeng/cti_multiplayer/media/smileHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(167) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/winkHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(170) urgent_cmd_list_:
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 0 "-w2 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 2 "-w2 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 4 "-w2 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 5 "-w-1 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 6 "-w2 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 7 "-w-1 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 8 "-w-1 /home/wangpeng/cti_multiplayer/media/chargingHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 9 "-w-1 /home/wangpeng/cti_multiplayer/media/bootupHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 10 "-w-1 /home/wangpeng/cti_multiplayer/media/lowpowerHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 11 "-w-1 /home/wangpeng/cti_multiplayer/media/positioningHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(172) 12 "-w-1 /home/wangpeng/cti_multiplayer/media/warnHD.gif"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-w2"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 2
+(2021-06-22 09:46:46) Debug: File:(src/mainwindow.cpp) Line:(205) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 09:46:48) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 09:46:48) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-06-22 09:46:48) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-w2"
+(2021-06-22 09:46:48) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 09:46:48) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 2
+(2021-06-22 09:46:48) Debug: File:(src/mainwindow.cpp) Line:(205) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 09:46:50) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 09:46:50) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-06-22 09:46:50) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-l1"
+(2021-06-22 09:46:50) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 09:46:50) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 1
+(2021-06-22 09:46:50) Debug: File:(src/mainwindow.cpp) Line:(230) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 09:51:16) Debug: File:(src/main.cpp) Line:(19) -------------------------
+(2021-06-22 09:51:16) Debug: File:(src/main.cpp) Line:(20) cti_multiplayer start now!
+(2021-06-22 09:51:16) Debug: File:(src/main.cpp) Line:(21) -------------------------
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(160) normal_cmd_list_:
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(162) 0 "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(162) 1 "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(162) 2 "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(165) face_cmd_list_:
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(167) 0 "-w-1 /home/wangpeng/cti_multiplayer/media/cuteHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(167) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/loveHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(167) 2 "-w-1 /home/wangpeng/cti_multiplayer/media/smileHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(167) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/winkHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(170) urgent_cmd_list_:
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 0 "-w2 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 2 "-w2 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 4 "-w2 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 5 "-w-1 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 6 "-w2 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 7 "-w-1 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 8 "-w-1 /home/wangpeng/cti_multiplayer/media/chargingHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 9 "-w-1 /home/wangpeng/cti_multiplayer/media/bootupHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 10 "-w-1 /home/wangpeng/cti_multiplayer/media/lowpowerHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 11 "-w-1 /home/wangpeng/cti_multiplayer/media/positioningHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(172) 12 "-w-1 /home/wangpeng/cti_multiplayer/media/warnHD.gif"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-w2"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 2
+(2021-06-22 09:51:16) Debug: File:(src/mainwindow.cpp) Line:(205) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 09:51:18) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 09:51:18) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-06-22 09:51:18) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-w2"
+(2021-06-22 09:51:18) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 09:51:18) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 2
+(2021-06-22 09:51:18) Debug: File:(src/mainwindow.cpp) Line:(205) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 09:51:20) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 09:51:20) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-06-22 09:51:20) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-l1"
+(2021-06-22 09:51:20) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 09:51:20) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 1
+(2021-06-22 09:51:20) Debug: File:(src/mainwindow.cpp) Line:(230) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 09:51:32) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 09:51:32) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-06-22 09:51:32) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-w2"
+(2021-06-22 09:51:32) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 09:51:32) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 2
+(2021-06-22 09:51:32) Debug: File:(src/mainwindow.cpp) Line:(205) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 09:51:34) Debug: File:(src/mainwindow.cpp) Line:(133) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 09:51:34) Debug: File:(src/mainwindow.cpp) Line:(136) parse num: 2
+(2021-06-22 09:51:34) Debug: File:(src/mainwindow.cpp) Line:(139) [ 0 ] "-w2"
+(2021-06-22 09:51:34) Debug: File:(src/mainwindow.cpp) Line:(139) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 09:51:34) Debug: File:(src/mainwindow.cpp) Line:(149) get time_secs: 2
+(2021-06-22 09:51:34) Debug: File:(src/mainwindow.cpp) Line:(205) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 11:41:53) Debug: File:(src/main.cpp) Line:(19) -------------------------
+(2021-06-22 11:41:53) Debug: File:(src/main.cpp) Line:(20) cti_multiplayer start now!
+(2021-06-22 11:41:53) Debug: File:(src/main.cpp) Line:(21) -------------------------
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(162) normal_cmd_list_:
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(164) 0 "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(164) 1 "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(164) 2 "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(167) face_cmd_list_:
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(169) 0 "-w-1 /home/wangpeng/cti_multiplayer/media/cuteHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(169) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/loveHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(169) 2 "-w-1 /home/wangpeng/cti_multiplayer/media/smileHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(169) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/winkHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(172) urgent_cmd_list_:
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 0 "-w2 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 2 "-w2 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 4 "-w2 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 5 "-w-1 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 6 "-w2 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 7 "-w-1 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 8 "-w-1 /home/wangpeng/cti_multiplayer/media/chargingHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 9 "-w-1 /home/wangpeng/cti_multiplayer/media/bootupHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 10 "-w-1 /home/wangpeng/cti_multiplayer/media/lowpowerHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 11 "-w-1 /home/wangpeng/cti_multiplayer/media/positioningHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(174) 12 "-w-1 /home/wangpeng/cti_multiplayer/media/warnHD.gif"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-w2"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 2
+(2021-06-22 11:41:53) Debug: File:(src/mainwindow.cpp) Line:(233) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 11:41:55) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:41:55) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:41:55) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-w2"
+(2021-06-22 11:41:55) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:41:55) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 2
+(2021-06-22 11:41:55) Debug: File:(src/mainwindow.cpp) Line:(233) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 11:41:57) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:41:57) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:41:57) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-l1"
+(2021-06-22 11:41:57) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:41:57) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 1
+(2021-06-22 11:41:57) Debug: File:(src/mainwindow.cpp) Line:(258) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 11:42:10) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:42:10) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:10) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-w2"
+(2021-06-22 11:42:10) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:42:10) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 2
+(2021-06-22 11:42:10) Debug: File:(src/mainwindow.cpp) Line:(233) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 11:42:11) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:42:11) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:11) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-w2"
+(2021-06-22 11:42:11) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:42:11) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 2
+(2021-06-22 11:42:11) Debug: File:(src/mainwindow.cpp) Line:(233) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 11:42:13) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:42:13) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:13) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-l1"
+(2021-06-22 11:42:13) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:42:13) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 1
+(2021-06-22 11:42:13) Debug: File:(src/mainwindow.cpp) Line:(258) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 11:42:24) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:42:24) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:24) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-w2"
+(2021-06-22 11:42:24) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:42:24) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 2
+(2021-06-22 11:42:24) Debug: File:(src/mainwindow.cpp) Line:(233) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 11:42:26) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:42:26) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:26) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-w2"
+(2021-06-22 11:42:26) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:42:26) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 2
+(2021-06-22 11:42:26) Debug: File:(src/mainwindow.cpp) Line:(233) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 11:42:28) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:42:28) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:28) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-l1"
+(2021-06-22 11:42:28) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:42:28) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 1
+(2021-06-22 11:42:28) Debug: File:(src/mainwindow.cpp) Line:(258) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 11:42:39) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:42:39) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:39) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-w2"
+(2021-06-22 11:42:39) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:42:39) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 2
+(2021-06-22 11:42:39) Debug: File:(src/mainwindow.cpp) Line:(233) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 11:42:41) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:42:41) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:41) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-w2"
+(2021-06-22 11:42:41) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:42:41) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 2
+(2021-06-22 11:42:41) Debug: File:(src/mainwindow.cpp) Line:(233) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 11:42:42) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:42:42) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:42) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-l1"
+(2021-06-22 11:42:42) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:42:42) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 1
+(2021-06-22 11:42:42) Debug: File:(src/mainwindow.cpp) Line:(258) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 11:42:53) Debug: File:(src/mainwindow.cpp) Line:(135) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:42:53) Debug: File:(src/mainwindow.cpp) Line:(138) parse num: 2
+(2021-06-22 11:42:53) Debug: File:(src/mainwindow.cpp) Line:(141) [ 0 ] "-w2"
+(2021-06-22 11:42:53) Debug: File:(src/mainwindow.cpp) Line:(141) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:42:53) Debug: File:(src/mainwindow.cpp) Line:(151) get time_secs: 2
+(2021-06-22 11:42:53) Debug: File:(src/mainwindow.cpp) Line:(233) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 11:53:42) Debug: File:(src/main.cpp) Line:(19) -------------------------
+(2021-06-22 11:53:42) Debug: File:(src/main.cpp) Line:(20) cti_multiplayer start now!
+(2021-06-22 11:53:42) Debug: File:(src/main.cpp) Line:(21) -------------------------
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(163) normal_cmd_list_:
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(165) 0 "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(165) 1 "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(165) 2 "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(168) face_cmd_list_:
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(170) 0 "-w-1 /home/wangpeng/cti_multiplayer/media/cuteHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(170) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/loveHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(170) 2 "-w-1 /home/wangpeng/cti_multiplayer/media/smileHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(170) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/winkHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(173) urgent_cmd_list_:
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 0 "-w2 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 2 "-w2 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 4 "-w2 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 5 "-w-1 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 6 "-w2 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 7 "-w-1 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 8 "-w-1 /home/wangpeng/cti_multiplayer/media/chargingHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 9 "-w-1 /home/wangpeng/cti_multiplayer/media/bootupHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 10 "-w-1 /home/wangpeng/cti_multiplayer/media/lowpowerHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 11 "-w-1 /home/wangpeng/cti_multiplayer/media/positioningHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(175) 12 "-w-1 /home/wangpeng/cti_multiplayer/media/warnHD.gif"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-w2"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 2
+(2021-06-22 11:53:42) Debug: File:(src/mainwindow.cpp) Line:(243) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 11:53:44) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:53:44) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:53:44) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-w2"
+(2021-06-22 11:53:44) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:53:44) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 2
+(2021-06-22 11:53:44) Debug: File:(src/mainwindow.cpp) Line:(243) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 11:53:46) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:53:46) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:53:46) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-l1"
+(2021-06-22 11:53:46) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:53:46) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 1
+(2021-06-22 11:53:46) Debug: File:(src/mainwindow.cpp) Line:(268) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 11:53:59) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:53:59) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:53:59) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-w2"
+(2021-06-22 11:53:59) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:53:59) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 2
+(2021-06-22 11:53:59) Debug: File:(src/mainwindow.cpp) Line:(243) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 11:54:00) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:54:00) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:54:00) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-w2"
+(2021-06-22 11:54:00) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:54:00) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 2
+(2021-06-22 11:54:00) Debug: File:(src/mainwindow.cpp) Line:(243) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 11:54:02) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:54:02) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:54:02) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-l1"
+(2021-06-22 11:54:02) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:54:02) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 1
+(2021-06-22 11:54:02) Debug: File:(src/mainwindow.cpp) Line:(268) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 11:54:13) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:54:13) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:54:13) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-w2"
+(2021-06-22 11:54:13) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:54:13) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 2
+(2021-06-22 11:54:13) Debug: File:(src/mainwindow.cpp) Line:(243) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 11:54:15) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:54:15) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:54:15) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-w2"
+(2021-06-22 11:54:15) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:54:15) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 2
+(2021-06-22 11:54:15) Debug: File:(src/mainwindow.cpp) Line:(243) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 11:54:17) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:54:17) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:54:17) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-l1"
+(2021-06-22 11:54:17) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:54:17) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 1
+(2021-06-22 11:54:17) Debug: File:(src/mainwindow.cpp) Line:(268) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 11:54:28) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:54:28) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:54:28) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-w2"
+(2021-06-22 11:54:28) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 11:54:28) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 2
+(2021-06-22 11:54:28) Debug: File:(src/mainwindow.cpp) Line:(243) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 11:54:30) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:54:30) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:54:30) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-w2"
+(2021-06-22 11:54:30) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 11:54:30) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 2
+(2021-06-22 11:54:30) Debug: File:(src/mainwindow.cpp) Line:(243) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 11:54:31) Debug: File:(src/mainwindow.cpp) Line:(136) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:54:31) Debug: File:(src/mainwindow.cpp) Line:(139) parse num: 2
+(2021-06-22 11:54:31) Debug: File:(src/mainwindow.cpp) Line:(142) [ 0 ] "-l1"
+(2021-06-22 11:54:31) Debug: File:(src/mainwindow.cpp) Line:(142) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 11:54:31) Debug: File:(src/mainwindow.cpp) Line:(152) get time_secs: 1
+(2021-06-22 11:54:31) Debug: File:(src/mainwindow.cpp) Line:(268) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:03:02) Debug: File:(src/main.cpp) Line:(19) -------------------------
+(2021-06-22 12:03:02) Debug: File:(src/main.cpp) Line:(20) cti_multiplayer start now!
+(2021-06-22 12:03:02) Debug: File:(src/main.cpp) Line:(21) -------------------------
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(164) normal_cmd_list_:
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(166) 0 "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(166) 1 "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(166) 2 "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(169) face_cmd_list_:
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(171) 0 "-w-1 /home/wangpeng/cti_multiplayer/media/cuteHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(171) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/loveHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(171) 2 "-w-1 /home/wangpeng/cti_multiplayer/media/smileHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(171) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/winkHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(174) urgent_cmd_list_:
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 0 "-w2 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 2 "-w2 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 4 "-w2 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 5 "-w-1 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 6 "-w2 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 7 "-w-1 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 8 "-w-1 /home/wangpeng/cti_multiplayer/media/chargingHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 9 "-w-1 /home/wangpeng/cti_multiplayer/media/bootupHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 10 "-w-1 /home/wangpeng/cti_multiplayer/media/lowpowerHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 11 "-w-1 /home/wangpeng/cti_multiplayer/media/positioningHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(176) 12 "-w-1 /home/wangpeng/cti_multiplayer/media/warnHD.gif"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:03:02) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:03:04) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:03:04) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:04) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:03:04) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:03:04) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:03:04) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:03:06) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:03:06) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:06) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:03:06) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:03:06) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:03:06) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:03:18) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:03:18) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:18) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:03:18) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:03:18) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:03:18) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:03:20) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:03:20) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:20) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:03:20) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:03:20) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:03:20) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:03:22) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:03:22) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:22) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:03:22) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:03:22) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:03:22) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:03:33) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:03:33) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:33) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:03:33) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:03:33) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:03:33) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:03:35) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:03:35) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:35) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:03:35) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:03:35) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:03:35) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:03:37) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:03:37) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:37) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:03:37) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:03:37) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:03:37) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:03:48) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:03:48) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:48) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:03:48) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:03:48) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:03:48) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:03:49) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:03:49) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:49) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:03:49) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:03:49) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:03:49) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:03:51) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:03:51) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:03:51) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:03:51) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:03:51) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:03:51) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:04:02) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:04:02) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:02) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:04:02) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:04:02) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:04:02) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:04:04) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:04:04) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:04) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:04:04) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:04:04) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:04:04) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:04:06) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:04:06) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:06) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:04:06) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:04:06) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:04:06) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:04:17) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:04:17) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:17) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:04:17) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:04:17) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:04:17) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:04:19) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:04:19) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:19) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:04:19) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:04:19) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:04:19) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:04:21) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:04:21) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:21) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:04:21) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:04:21) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:04:21) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:04:32) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:04:32) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:32) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:04:32) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:04:32) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:04:32) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:04:33) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:04:33) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:33) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:04:33) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:04:33) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:04:33) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:04:35) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:04:35) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:35) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:04:35) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:04:35) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:04:35) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:04:46) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:04:46) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:46) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:04:46) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:04:46) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:04:46) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:04:48) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:04:48) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:48) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:04:48) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:04:48) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:04:48) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:04:50) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:04:50) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:04:50) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:04:50) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:04:50) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:04:50) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:05:01) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:01) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:01) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:05:01) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:01) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:05:01) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:05:03) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:05:03) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:03) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:05:03) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:05:03) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:05:03) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:05:05) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:05:05) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:05) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:05:05) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:05:05) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:05:05) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:05:16) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:16) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:16) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:05:16) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:16) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:05:16) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:05:17) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:05:17) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:17) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:05:17) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:05:17) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:05:17) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:05:19) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:05:19) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:19) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:05:19) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:05:19) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:05:19) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:05:30) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:30) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:30) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:05:30) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:30) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:05:30) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:05:32) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:05:32) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:32) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:05:32) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:05:32) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:05:32) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:05:34) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:05:34) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:34) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:05:34) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:05:34) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:05:34) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:05:45) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:45) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:45) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:05:45) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:45) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:05:45) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:05:47) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:05:47) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:47) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:05:47) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:05:47) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:05:47) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:05:48) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:05:48) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:48) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:05:48) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:05:48) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:05:48) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:05:59) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:59) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:05:59) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:05:59) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:05:59) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:05:59) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:06:01) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:06:01) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:01) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:06:01) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:06:01) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:06:01) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:06:03) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:06:03) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:03) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:06:03) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:06:03) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:06:03) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:06:14) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:06:14) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:14) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:06:14) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:06:14) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:06:14) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:06:16) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:06:16) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:16) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:06:16) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:06:16) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:06:16) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:06:18) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:06:18) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:18) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:06:18) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:06:18) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:06:18) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:06:29) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:06:29) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:29) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:06:29) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:06:29) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:06:29) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:06:31) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:06:31) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:31) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:06:31) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:06:31) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:06:31) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:06:33) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:06:33) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:33) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:06:33) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:06:33) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:06:33) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:06:44) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:06:44) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:44) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:06:44) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:06:44) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:06:44) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:06:45) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:06:45) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:45) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:06:45) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:06:45) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:06:45) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:06:47) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:06:47) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:47) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:06:47) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:06:47) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:06:47) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:06:58) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:06:58) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:06:58) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:06:58) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:06:58) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:06:58) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:07:00) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:00) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:00) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:07:00) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:00) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:07:00) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:07:02) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:07:02) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:02) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:07:02) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:07:02) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:07:02) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:07:13) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:07:13) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:13) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:07:13) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:07:13) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:07:13) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:07:15) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:15) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:15) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:07:15) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:15) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:07:15) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:07:16) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:07:16) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:16) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:07:16) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:07:16) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:07:16) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:07:27) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:07:27) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:27) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:07:27) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:07:27) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:07:27) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:07:29) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:29) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:29) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:07:29) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:29) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:07:29) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:07:31) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:07:31) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:31) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:07:31) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:07:31) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:07:31) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:07:42) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:07:42) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:42) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:07:42) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:07:42) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:07:42) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:07:44) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:44) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:44) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:07:44) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:44) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:07:44) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:07:45) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:07:45) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:45) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:07:45) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:07:45) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:07:45) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:07:57) Debug: File:(src/main.cpp) Line:(19) -------------------------
+(2021-06-22 12:07:57) Debug: File:(src/main.cpp) Line:(20) cti_multiplayer start now!
+(2021-06-22 12:07:57) Debug: File:(src/main.cpp) Line:(21) -------------------------
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(164) normal_cmd_list_:
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(166) 0 "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(166) 1 "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(166) 2 "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(169) face_cmd_list_:
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(171) 0 "-w-1 /home/wangpeng/cti_multiplayer/media/cuteHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(171) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/loveHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(171) 2 "-w-1 /home/wangpeng/cti_multiplayer/media/smileHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(171) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/winkHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(174) urgent_cmd_list_:
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 0 "-w2 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 1 "-w-1 /home/wangpeng/cti_multiplayer/media/stopHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 2 "-w2 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 3 "-w-1 /home/wangpeng/cti_multiplayer/media/turnleftHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 4 "-w2 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 5 "-w-1 /home/wangpeng/cti_multiplayer/media/turnrightHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 6 "-w2 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 7 "-w-1 /home/wangpeng/cti_multiplayer/media/reversingHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 8 "-w-1 /home/wangpeng/cti_multiplayer/media/chargingHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 9 "-w-1 /home/wangpeng/cti_multiplayer/media/bootupHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 10 "-w-1 /home/wangpeng/cti_multiplayer/media/lowpowerHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 11 "-w-1 /home/wangpeng/cti_multiplayer/media/positioningHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(176) 12 "-w-1 /home/wangpeng/cti_multiplayer/media/warnHD.gif"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:07:57) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:07:59) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:59) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:07:59) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:07:59) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:07:59) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:07:59) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:08:01) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:08:01) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:08:01) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:08:01) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:08:01) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:08:01) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1
+(2021-06-22 12:08:13) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:08:13) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:08:13) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:08:13) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/hangmu.jpg"
+(2021-06-22 12:08:13) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:08:13) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/hangmu.jpg" secs_: 2
+(2021-06-22 12:08:15) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-w2 /home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:08:15) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:08:15) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-w2"
+(2021-06-22 12:08:15) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/500_888.jpg"
+(2021-06-22 12:08:15) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 2
+(2021-06-22 12:08:15) Debug: File:(src/mainwindow.cpp) Line:(245) normal_img: "/home/wangpeng/cti_multiplayer/media/500_888.jpg" secs_: 2
+(2021-06-22 12:08:17) Debug: File:(src/mainwindow.cpp) Line:(137) parseCMD: "-l1 /home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:08:17) Debug: File:(src/mainwindow.cpp) Line:(140) parse num: 2
+(2021-06-22 12:08:17) Debug: File:(src/mainwindow.cpp) Line:(143) [ 0 ] "-l1"
+(2021-06-22 12:08:17) Debug: File:(src/mainwindow.cpp) Line:(143) [ 1 ] "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4"
+(2021-06-22 12:08:17) Debug: File:(src/mainwindow.cpp) Line:(153) get time_secs: 1
+(2021-06-22 12:08:17) Debug: File:(src/mainwindow.cpp) Line:(270) normal_vid: "/home/wangpeng/cti_multiplayer/media/guanggao1.mp4" loop_: 1

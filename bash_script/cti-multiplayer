@@ -1,0 +1,49 @@
+#! /bin/sh
+### BEGIN INIT INFO
+# Provides:          cti-multiplayer
+# Required-Start:    
+# Required-Stop:
+# Default-Start:    2 3 4 5 
+# Default-Stop:      
+# Short-Description: Run /home/pi/cti_multiplayer/start_multiplayer.sh if it exist
+### END INIT INFO
+
+
+PATH=/sbin:/usr/sbin:/bin:/usr/bin
+
+. /lib/init/vars.sh
+. /lib/lsb/init-functions
+
+do_start() {
+	if [ -x /home/pi/cti_multiplayer/start_cti_multiplayer.sh ]; then
+	        [ "$VERBOSE" != no ] && log_begin_msg "Running local boot scripts (/home/pi/cti_multiplayer/start_cti_multiplayer.sh)"
+		/home/pi/cti_multiplayer/start_cti_multiplayer.sh
+		ES=$?
+		[ "$VERBOSE" != no ] && log_end_msg $ES
+		return $ES
+	else
+		echo 'no sh file exist.'
+	fi
+}
+do_stop() {
+       /home/pi/cti_multiplayer/stop_cti_multiplayer.sh
+}
+export DISPLAY=:0
+case "$1" in
+    start)
+	do_start
+        ;;
+    restart|reload|force-reload)
+        echo "Error: argument '$1' not supported" >&2
+        exit 3
+        ;;
+    stop|status)
+        echo "cti-multiplayer service stop."       
+        do_stop
+        exit 0
+        ;;
+    *)
+        echo "Usage: $0 start|stop" >&2
+        exit 3
+        ;;
+esac

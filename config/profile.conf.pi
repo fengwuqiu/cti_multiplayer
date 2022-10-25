@@ -1,0 +1,46 @@
+#--------------使用说明----------------
+#1. 示例:  视频:  cmd1= -l2 /home/wangpeng/catkin_ws/src/cti_multiplayer/media/fu4.mp4 
+#          图片:  cmd4= -w3 /home/wangpeng/catkin_ws/src/cti_multiplayer/media/car.bmp
+#          请严格按照以上格式设置修改profile.conf.
+#2. 图片只接受 .jpg .bmp .png .gif 格式 ,视频只接受 .mp4 格式
+#3. cnt=的数量应该和下面cmd数量相同.即 cnt=4 则命令应该为cmd1 ,cmd2, cmd3,cmd4.
+#4. 可通过#进行行注释
+#5. 图片使用参数 -w 来控制播放时间,不指定或指定负值会一直播放; 视频使用 -l 来控制播放循环次数 不指定或指定负值会一直播放
+#6. 命令行不能包含中文字符
+#--------------使用说明-----------------
+[normal_cnt]
+cnt=9
+
+[normal_cmd]
+cmd1= -w5 /home/pi/cti_multiplayer/media/wallpaper1.jpg
+cmd2= -w5 /home/pi/cti_multiplayer/media/wallpaper2.jpg
+cmd3= -w5 /home/pi/cti_multiplayer/media/wallpaper3.jpg
+cmd4= -w5 /home/pi/cti_multiplayer/media/wallpaper4.jpg
+cmd5= -w5 /home/pi/cti_multiplayer/media/wallpaper5.jpg
+cmd6= -w5 /home/pi/cti_multiplayer/media/wallpaper6.jpg
+cmd7= -w5 /home/pi/cti_multiplayer/media/wallpaper7.jpg
+cmd8= -w5 /home/pi/cti_multiplayer/media/wallpaper8.jpg
+cmd9= -l1 /home/pi/cti_multiplayer/media/oceans.mp4
+
+[face_cnt]
+cnt=4
+
+[face_cmd]
+cmd1= -w-1 /home/pi/cti_multiplayer/media/face_default_mid.gif
+cmd2= -w-1 /home/pi/cti_multiplayer/media/face_blink.gif
+cmd3= -w-1 /home/pi/cti_multiplayer/media/face_happy.gif
+cmd4= -w-1 /home/pi/cti_multiplayer/media/face_love.gif
+
+[urgent_cnt]
+cnt=8
+
+[urgent_cmd]
+cmd1=-w2 /home/pi/cti_multiplayer/media/brake2.gif
+cmd2=-w-1 /home/pi/cti_multiplayer/media/brake2.gif
+cmd3=-w2 /home/pi/cti_multiplayer/media/turnleft2.gif
+cmd4=-w-1 /home/pi/cti_multiplayer/media/turnleft2.gif
+cmd5=-w2 /home/pi/cti_multiplayer/media/turnright2.gif
+cmd6=-w-1 /home/pi/cti_multiplayer/media/turnright2.gif
+cmd7=-w2/home/pi/cti_multiplayer/media/reverse2.gif
+cmd8=-w-1 /home/pi/cti_multiplayer/media/reverse2.gif
+
